@@ -1,0 +1,16 @@
+{
+  "env": "development",
+  "s3": {
+    "secretAccessKey": "8riYCecVBoaOECoSmTSZjAmAiqPfRb0vCk74O4Ef",
+    "accessKeyId": "AKIARCRBO2E42DHLQV3V"
+  },
+  "coconut": "k-6eb34f7b236ceffd9a70bc0c5f2ad437",
+  "database": {
+    "database": "haii_me",
+    "username": "taras",
+    "password": "taras",
+    "dialect": "sqlite",
+    "storage": "database.sqlite",
+    "logging": false
+  }
+}
